@@ -9,7 +9,7 @@ The frontend of the app was build using **React JS** and **Redux**.
 The backend was build using **Node JS** and **Express JS**.
 **MongoDB** is the database used to store the data.
 
-#### Website Link:  [https://e-mart-store.herokuapp.com/](https://e-mart-store.herokuapp.com/)
+#### Website Link:  [https://mern-socio-app.herokuapp.com/](https://mern-socio-app.herokuapp.com/)
 
 
 ### Key Features of the Application:
